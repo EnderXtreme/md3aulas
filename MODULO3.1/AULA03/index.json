@@ -1,0 +1,41 @@
+{
+  "alunos": [
+    {
+      "nome": "Fabio C. Ferreira",
+      "endereco": "Rua M",
+      "bairro": "Santa Cruz",
+      "cidade": "Rio de Janeiro",
+      "email": "fabioelgin@gmail.com",
+      "id_curso": 1,
+      "id": 1
+    },
+    {
+      "nome": "Alessandro",
+      "endereco": "Rua das Azaleas",
+      "bairro": "Vila Valqueire",
+      "cidade": "Rio de Janeiro",
+      "email": "alessandro.vieira@rj.senac.br",
+      "id_curso": "2",
+      "id": 2
+    },
+    {
+      "nome": "Fatinha Boladona",
+      "endereco": "Rua F",
+      "bairro": "Santa Espada",
+      "cidade": "Rio de Janeiro",
+      "email": "fatinha@gmail.com",
+      "id_curso": 2,
+      "id": 3
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Técnico em Informática",
+      "id": "1"
+    },
+    {
+      "nome": "Programadores Cariocas",
+      "id": "2"
+    }
+  ]
+}
